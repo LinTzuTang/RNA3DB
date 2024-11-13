@@ -1,0 +1,16 @@
+.vscode/
+__pycache__
+*.egg-info
+build
+dist
+data/
+
+# vim swp
+[._]*.s[a-v][a-z]
+!*.svg  # keep svg
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+**/.DS_Store
