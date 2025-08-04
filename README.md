@@ -1,3 +1,12 @@
+# RNA3DB
+
+A dataset of non-redundant RNA structures from the PDB. RNA3DB contains:
+
+All RNA chains in the PDB, labelled with non-coding RNA families
+Non-redundant clustering of the above chains, suitable for training and benchmarking deep learning models
+
+
+
 ### 0. see original rna3db
 
 Pipeline overview:  
